@@ -96,13 +96,13 @@ sudo dnf install ImageMagick
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/Image-to-PDF.git
+git clone https://github.com/arthasa28/Convert-image-to-PDF-Automation.git
 ```
 
 Masuk ke folder project
 
 ```bash
-cd Image-to-PDF
+cd Convert-image-to-PDF-Automation
 ```
 
 ---
@@ -110,7 +110,7 @@ cd Image-to-PDF
 ## 2. Berikan Hak Akses
 
 ```bash
-chmod +x convert-pdf.sh
+chmod +x convert.sh
 ```
 
 Perintah ini membuat script dapat dijalankan.
